@@ -35,8 +35,13 @@
 
 ## Support Removal Process
 ![image](https://github.com/Himavath08/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139110631/cb40a486-8566-4b49-9c1b-193ae0c4d381)
+
+
 ![image](https://github.com/Himavath08/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139110631/a444a27c-a16b-4ccd-a249-8b003d1f3d00)
+
+
 ![image](https://github.com/Himavath08/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139110631/502fa9db-954c-4e8b-9688-e192808630e3)
+
 
 ![image](https://github.com/Himavath08/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139110631/95a44573-1251-4d4c-bfd0-ba5957a24dde)
 
